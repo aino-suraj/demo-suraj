@@ -8,8 +8,8 @@ public class ApplicationTest {
 	public void test() {
 		SampleClass obj=new SampleClass();
 			
-		assertEquals(obj.getSample(),"maven_sample");
+		assertEquals(obj.getSample(),"maven_sample_two");
 	
 	}
-
+	
 }
